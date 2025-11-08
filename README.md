@@ -20,4 +20,9 @@ Um projeto simples de Node.js para gerenciar arquivos, utilizando módulos Commo
 ---
 
 ## 📁 Estrutura do Projeto
-
+```fileManager.js
+index.js
+package.json
+package-lock.json
+my_files/ # Pasta de arquivos gerenciados
+node_modules/ # Dependências (ignorada pelo Git)```
