@@ -47,6 +47,8 @@ npm install
 3. Execute o projeto:  
 ```bash
 node index.js
+OBS.: Se tiver problemas com acentuação na hora da execução rodar simultaneamente (chcp 65001
+node index.js)
 ```
 
 ---
